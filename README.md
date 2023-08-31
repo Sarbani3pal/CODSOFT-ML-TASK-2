@@ -43,7 +43,7 @@ For a detailed analysis of the model's performance, please refer to the https://
 ## Demo Video
 Check out the demo video below to see the credit card fraud detection model in action:
 
-!Demo Video (https://www.linkedin.com/posts/sarbani-pal-219454211_crefitcardfrauddetection-codsoft-innovation-activity-7102865506524643329-7TxL?utm_source=share&utm_medium=member_android)
+<strong> <a href="https://www.linkedin.com/posts/sarbani-pal-219454211_crefitcardfrauddetection-codsoft-innovation-activity-7102865506524643329-7TxL?utm_source=share&utm_medium=member_android">Live Demo Video</a></strong>
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -52,6 +52,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Kaggle for providing the dataset
 - Scikit-learn library for the machine learning algorithms
 - Pandas and NumPy libraries for data handling and preprocessing
+- 
+## Author 
+ https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2
 
 ## Contact
 For any questions or further information, please contact sarbaniflakes@gmail.com
