@@ -54,7 +54,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Pandas and NumPy libraries for data handling and preprocessing
 - 
 ## Author 
- https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2
+ https://github.com/Sarbani3pal/
 
 ## Contact
 For any questions or further information, please contact sarbaniflakes@gmail.com
