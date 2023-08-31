@@ -32,8 +32,9 @@ This script will load the pre-trained model, perform predictions on new data, an
 ## Results
 This trained model achieved an accuracy of 99.5% and a precision of 97% on the test dataset. The confusion matrix and ROC curve are shown below:
 
-![Confusion Matrix]![cm](https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2/assets/106859451/e8798a5e-21dd-4a07-a187-c10f093e60ff)
-![ROC Curve]![roc curve](https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2/assets/106859451/1b7fb93e-38cf-49d7-9e1f-b26867cea8ae)
+ROC Curve ![roc curve](https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2/assets/106859451/1b7fb93e-38cf-49d7-9e1f-b26867cea8ae) Confusion Matrix [cm](https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2/assets/106859451/e8798a5e-21dd-4a07-a187-c10f093e60ff)
+
+
 
 
 For a detailed analysis of the model's performance, please refer to the https://github.com/Sarbani3pal/CODSOFT-ML-TASK-2/new/main?readme=1 file.
