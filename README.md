@@ -43,7 +43,7 @@ For a detailed analysis of the model's performance, please refer to the https://
 ## Demo Video
 Check out the demo video below to see the credit card fraud detection model in action:
 
-[![Demo Video](https://www.linkedin.com/posts/sarbani-pal-219454211_crefitcardfrauddetection-codsoft-innovation-activity-7102865506524643329-7TxL?utm_source=share&utm_medium=member_desktop)
+[![Demo Video](https://www.linkedin.com/posts/sarbani-pal-219454211_crefitcardfrauddetection-codsoft-innovation-activity-7102865506524643329-7TxL?utm_source=share&utm_medium=member_android)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
