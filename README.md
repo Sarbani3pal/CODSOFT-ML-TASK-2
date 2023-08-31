@@ -26,7 +26,7 @@ Feature engineering techniques, such as PCA and feature scaling, were applied to
 ## Usage
 To run the credit card fraud detection model:
 1. Ensure you have the required dependencies installed (see Installation section).
-2. Run the `app.py` script:
+2. Run the `creditcardfrauddetection1.py` script:
 This script will load the pre-trained model, perform predictions on new data, and generate a fraud detection report.
 
 ## Results
